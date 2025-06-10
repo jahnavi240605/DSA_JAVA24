@@ -1,5 +1,5 @@
 import java.util.*;
-public class Main {
+public class Linearsearch {
     public static void main(String[] args){
         int[] arr=new int[5];
         Scanner sc=new Scanner(System.in);
